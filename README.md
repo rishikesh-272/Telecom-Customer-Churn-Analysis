@@ -60,7 +60,7 @@
 
 ## 🚀 Quick Start
 
-### **View Dashboard**
+### **View Dashboard** https://telecom-churn-analysis-dashboard.netlify.app/
 
 ---
 

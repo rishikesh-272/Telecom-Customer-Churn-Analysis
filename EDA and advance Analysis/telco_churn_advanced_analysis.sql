@@ -2,7 +2,7 @@
 -- TELCO CHURN: COMPREHENSIVE EDA + PRODUCT INSIGHTS ANALYSIS
 -- ============================================================================
 -- Project: Identify churn drivers and frame retention strategies
--- Author: [Your Name] | Dataset: Kaggle Telco Customer Churn
+-- Author: Rishikesh Mohite | Dataset: Kaggle Telco Customer Churn
 -- ============================================================================
 
 -- ============================================================================

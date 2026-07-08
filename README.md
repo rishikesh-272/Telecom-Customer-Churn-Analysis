@@ -100,7 +100,7 @@
 
 - **Dataset:** [Kaggle Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 - **SQL Queries:** `analysis/telco_churn_advanced_analysis.sql` (40+ queries)
-- **Detailed Findings:** `findings/INSIGHTS_AND_RECOMMENDATIONS.md`
+- **Detailed Findings:** `[findings/INSIGHTS_AND_RECOMMENDATIONS](https://docs.google.com/document/d/1dki9tYlDIhOTca3k7dDxfNTFxKhPsT9EDAw4fjZTnWo/edit?usp=sharing)`
 
 ---
 

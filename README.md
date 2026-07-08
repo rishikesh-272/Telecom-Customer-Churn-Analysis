@@ -67,7 +67,7 @@
 ## 🛠️ Technical Stack
 
 - **SQL:** Advanced queries (CTEs, window functions, composite scoring)
-- **Dashboard:** HTML5 + JavaScript + Chart.js + Tailwind CSS
+- **Dashboard:** Claud AI + HTML5 + JavaScript + Chart.js + Tailwind CSS
 - **Data:** 7,043 customers, 21 features
 - **Performance:** Real-time filtering on 7K+ rows, zero lag
 
